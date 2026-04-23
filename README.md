@@ -89,7 +89,7 @@ Me llamo **Daniel Vásquez**, tengo 21 años, vivo en **Barcelona** y actualment
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats-pied-pi-20.vercel.app/api/top-langs/?username=gdvasquez-io&theme=tokyonight&layout=compact&locale=en&langs_count=8" 
+      src="https://github-readme-stats-pied-pi-20.vercel.app/api/top-langs/?username=gdvasquez-io&theme=tokyonight&layout=compact&locale=en&langs_count=8&hide=python" 
   />
 
 </p>
