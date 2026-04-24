@@ -6,7 +6,7 @@
 
 #
 
-Me llamo **Daniel Vásquez**, tengo 21 años, vivo en **Barcelona** y actualmente estoy cursando un **Grado Medio en Sistemas Microinformáticos y Redes (SMIX)**. Me apasiona el mundo del montaje de equipos, la configuración de redes y la virtualización. Además, **en mi timepo libre me gusta aprender cosas nueva, por ejmplo tener un asistente similar a JARVIS de la pelciula de IRON-MAN**. Siempre estoy buscando aprender cosas nuevas sobre tecnología y conectividad.
+Me llamo **Daniel Vásquez**, tengo 21 años, vivo en **Barcelona** y actualmente estoy cursando un **Grado Medio en Sistemas Microinformáticos y Redes (SMIX)**. Me apasiona el mundo del montaje de equipos, la configuración de redes y la virtualización. Además, **en mi tiempo libre me gusta aprender cosas nueva, por ejmplo actualmente quiero tener un asistente similar a JARVIS de la pelciula de IRON-MAN**. Siempre estoy buscando aprender cosas nuevas sobre tecnología y conectividad.
 
  
 #
